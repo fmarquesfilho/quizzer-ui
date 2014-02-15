@@ -1,0 +1,21 @@
+{
+  "name": "quizzer-ui",
+  "version": "0.0.4",
+  "homepage": "https://github.com/fmarquesfilho/quizzer-ui",
+  "authors": [
+    "Fernando Figueira Filho <fmarquesfilho@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.13",
+    "bootstrap": "~3.1.1"
+  }
+}
